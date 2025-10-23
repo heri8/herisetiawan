@@ -24,8 +24,9 @@ function HomePage() {
 }
 
 function App() {
+  const basenamePath = '/herisetiawan';
   return (
-    <Router>
+    <Router basename={basenamePath}>
       <div className="App">
         <Header />
         <main>
