@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/herisetiawan/static/css/main.35586446.css",
-    "main.js": "/herisetiawan/static/js/main.676950c3.js",
+    "main.js": "/herisetiawan/static/js/main.d92afd08.js",
     "index.html": "/herisetiawan/index.html",
     "main.35586446.css.map": "/herisetiawan/static/css/main.35586446.css.map",
-    "main.676950c3.js.map": "/herisetiawan/static/js/main.676950c3.js.map"
+    "main.d92afd08.js.map": "/herisetiawan/static/js/main.d92afd08.js.map"
   },
   "entrypoints": [
     "static/css/main.35586446.css",
-    "static/js/main.676950c3.js"
+    "static/js/main.d92afd08.js"
   ]
 }
